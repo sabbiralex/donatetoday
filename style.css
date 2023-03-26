@@ -47,6 +47,8 @@ color: white;
     padding-top: 100px;
 }
 .link-button{
+    display: inline-block;
+    margin-top: 10px;
     text-decoration: none;
     background-color: #FF5959;
     padding: 15px 30px;
