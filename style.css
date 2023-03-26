@@ -194,11 +194,11 @@ color: white;
     margin-bottom: 80px;
 }
 .form-makeup{
-    height: 80px;
+    height: 100px;
     background-color: #FFF4D6;
     margin-left: 250px;
     text-align: center;
-    padding-top: 80px;
+    padding-top: 50px;
 }
 .form-title{
     text-align: center;
@@ -233,6 +233,7 @@ footer{
 footer h1{
     color: #FF5959;
     font-size: 35px;
+    font-family: 'Great Vibes', cursive;
 }
 footer p{
     color: #D9DBE1;
