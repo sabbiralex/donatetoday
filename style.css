@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+ul{
+    margin-left: 450px;
+    margin-top: 0;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding-top: 20px;
+}
+ul li a{
+    
+    text-decoration: none;
+    padding: 0 15px;
+    color: white;
+}
+nav{
+    width: 100%;
+}
+
+.top-banner{
+    margin: 0;
+    height: 600px;
+    width: 100%;
+    background-image:url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.slider h1{
+font-size: 50px;
+color: white;
+
+}
+.slider p{
+    color: whitesmoke;
+}
+.slider{
+    text-align: center;
+    width: 700px;
+    height: 400px;
+    padding-left: 330px;
+    padding-top: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 15px 30px;
+    color: white;
+    font-weight:700;
+    border-radius: 5px;
+    cursor: pointer;
+}
