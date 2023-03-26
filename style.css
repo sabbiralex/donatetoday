@@ -138,3 +138,25 @@ color: white;
     border-radius: 5px;
 
   }
+  .donation{
+    display: flex;
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 5%;
+    padding-left: 2%;
+
+    
+}
+
+.donation img{
+    width: 100%;
+}
+
+.donation-fullwidth{
+    height: 500px;
+}
+.donation-halfwidth{
+    width: 60%;
+    margin-top: 20px;
+    margin-left: 50px;
+}
